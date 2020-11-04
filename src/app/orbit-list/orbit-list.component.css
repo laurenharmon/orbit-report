@@ -4,7 +4,7 @@
 }
 
 .warning {
-    background-color: #7e2a2a;
+    background-color: yellow;
 }
 
 table {
@@ -27,6 +27,3 @@ th, td {
     padding: 6px;
 }
 
-.warning {
-    background-color: yellow;
-}
